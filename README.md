@@ -79,5 +79,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thanks for all of our partner and supervisor in this project
+
+## Quotes of the Day
+
 * Stay learning and you will get what you want
 
