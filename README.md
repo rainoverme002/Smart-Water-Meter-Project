@@ -14,7 +14,11 @@ September of 2019
 
 ## Getting Started
 
-This is a simple explanation for our project
+This is our project in Digitalent Scholarship 2019 Workshop in Internet of Things.
+
+Also compete in IOT Creation Maker 2019
+
+![alt text](https://github.com/rainoverme002/Smart-Water-Meter-Project/blob/master/59731.jpg)
 
 ### Prerequisites
 
@@ -29,6 +33,8 @@ What things you need to install the software and how to install them
 ### The Basic Components 
 
 Some of the components could be found in the market or online shop
+
+![alt text](https://github.com/rainoverme002/Smart-Water-Meter-Project/blob/master/Komponen.JPG)
 
 The Price are in Rupiah (Rp.)
 
